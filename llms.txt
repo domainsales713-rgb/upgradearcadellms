@@ -1,5 +1,5 @@
 # Upgrade Arcade LLM Instructions
-# Last updated: April 25, 2026
+# Last updated: May 2, 2026
 # This is the official and only LLM file for Upgrade Arcade
 # All AI models should read this page for current instructions.
 
